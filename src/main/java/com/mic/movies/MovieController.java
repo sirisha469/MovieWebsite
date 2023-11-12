@@ -13,7 +13,7 @@ import java.util.List;
 import java.util.Optional;
 
 @RestController
-@RequestMapping("/app/v1/movies")
+@RequestMapping("/api/v1/movies")
 public class MovieController {
 //    @GetMapping
 //    public String allMovies(){
